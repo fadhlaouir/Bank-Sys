@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\BankSys\BankSys\bin\Debug\netcoreapp2.1\BankSys.deps.json
+C:\Users\HP\source\repos\BankSys\BankSys\bin\Debug\netcoreapp2.1\BankSys.runtimeconfig.json
+C:\Users\HP\source\repos\BankSys\BankSys\bin\Debug\netcoreapp2.1\BankSys.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BankSys\BankSys\bin\Debug\netcoreapp2.1\BankSys.dll
+C:\Users\HP\source\repos\BankSys\BankSys\obj\Debug\netcoreapp2.1\BankSys.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BankSys\BankSys\obj\Debug\netcoreapp2.1\BankSys.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BankSys\BankSys\obj\Debug\netcoreapp2.1\BankSys.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BankSys\BankSys\obj\Debug\netcoreapp2.1\BankSys.AssemblyInfo.cs
